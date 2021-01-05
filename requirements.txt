@@ -1,0 +1,15 @@
+flask
+spotipy
+wtforms
+mysqlclient
+Flask-MySQLdb
+Flask-SQLAlchemy
+Flask-WTF
+Flask-Login
+sagemaker
+inflection
+pandas
+numpy
+boto3
+awscli
+sklearn

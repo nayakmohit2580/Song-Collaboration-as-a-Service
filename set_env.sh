@@ -1,0 +1,8 @@
+export SPOTIPY_CLIENT_ID='d34275ab000b449094c636ad3c3eb3aa'
+export SPOTIPY_CLIENT_SECRET='9424e94f5ca84665b4b4fee3a8c7b340'
+export SPOTIPY_REDIRECT_URI='http://localhost:8888/callback'
+export AWS_ACCESS_KEY_ID='AKIAJ4V2GWH6322HBY2A'
+export AWS_SECRET_ACCESS_KEY='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'
+export AWS_DEFAULT_REGION='us-east-1'
+export AWS_S3_BUCKET_NAME='sagemaker-song-selection-aas'
+export AWS_SAGEMAKER_ROLE='song-selection-aas'
